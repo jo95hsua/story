@@ -1,3 +1,3 @@
-# story
+A collaborative story by MMP 460.
 
-there once was tiger named jeff
+A very long time ago, there was a tiger named Jeff.
